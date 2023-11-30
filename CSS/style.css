@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+.line1,
+.line2,
+.line3,
+.line4
+{
+    transform: rotate(-45deg);
+
+}
+
+.line1 {
+    margin-top: -120px;
+    margin-left: 100px;
+
+}
+
+.line2 {
+    margin-left: 188px;
+    margin-top: 3px;
+}
+.line3 {
+    margin-left: 361px;
+    margin-top: -43px;
+}
+
+.line4 {
+    margin-left: 535px;
+    margin-top: -44px;
+}
